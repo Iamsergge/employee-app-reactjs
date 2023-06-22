@@ -89,6 +89,8 @@ function EmpListing() {
                                             <td>{item.phone}</td>
                                             <td img  src={`${item.image}`}  style={{height:70, width:70}} >{item.image}</td>
                                             
+
+                                            
                                             <td>
                                                 <a onClick={() => { LoadEdit(item.id) }} className='btn btn-success'>Edit</a>
                                                 <a onClick={() => { RemoveFunction(item.id) }} className='btn btn-danger'>Remove</a>
