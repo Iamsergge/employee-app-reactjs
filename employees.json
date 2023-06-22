@@ -1,0 +1,19 @@
+{
+    "emp": [
+        {
+        "id": 1,
+        "name": "serge",
+        "email": "iammthombeni@gmail.com",
+        "phone": "0767120110",
+        "position": "dev",
+        "image": ""
+    },
+{
+    "id": 2,
+    "name": "serge",
+    "email": "iammthombeni@gmail.com",
+    "phone": "0767120110",
+    "position": "dev",
+    "image": ""
+}]
+}
